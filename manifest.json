@@ -1,0 +1,20 @@
+{
+  "background_color": "blue",
+  "description": "Repro case for https://crbug.com/432128207",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "/minimal-ui-repro/emilio.webp",
+      "sizes": "1152x1152",
+      "purpose": "any maskable",
+      "type": "image/webp"
+    }
+  ],
+  "id": "minimal-ui-repro",
+  "name": "Minimal UI Repro",
+  "orientation": "portrait",
+  "scope": "/minimal-ui-repro/",
+  "short_name": "Repro",
+  "start_url": "/minimal-ui-repro/index.html",
+  "theme_color": "red"
+}
